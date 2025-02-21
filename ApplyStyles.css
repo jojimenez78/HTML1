@@ -1,12 +1,25 @@
 
 
 table {
-    border-collapse: collapse; 
-    width: 30%;
     
-
+    width: 40%;
+    margin: 20px 0;
 }
 
-
+aside {
+ 
+    float: right;
+    width: 100px;
+    background-color: #d23d3d;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #d8a3a3;
+    color: white;
+    margin-top: 20px;
+}
 
 
